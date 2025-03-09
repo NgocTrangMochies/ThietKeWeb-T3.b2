@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 15px;
+    width: 80%;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.website {
+    text-align: right;
+    font-style: italic;
+    color: green;
+}
+
+.content {
+    text-align: justify;
+    font-size: 16px;
+}
